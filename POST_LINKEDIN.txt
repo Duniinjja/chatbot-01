@@ -1,0 +1,10 @@
+Lançei meu projeto pessoal: **Chatbot em Excel (VBA)** 🧠📊
+
+✔️ Interface de chat no Excel
+✔️ Respostas automáticas via VBA
+✔️ Código aberto para estudo
+
+Repositório: https://github.com/Duniinjja/chatbot-01
+Autor: Erick Alves
+
+#excel #vba #chatbot #automacao #portfolio

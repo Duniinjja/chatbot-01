@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.log
+*.bak
+*.lock
+*.orig
+*.user
+*.suo
+*.vs
+*.vscode/
+__pycache__/
