@@ -1,4 +1,8 @@
-pergunta,resposta
-O que é este projeto?,Um chatbot criado em Excel/VBA, disponibilizado também em versão web para demonstração.
-Como ativo as macros no Excel?,No Excel Desktop: Arquivo > Opções > Central de Confiabilidade > Configurações de Macros > Habilitar.
-Quem é o autor?,Erick Alves.
+pergunta,resposta,sinonimos
+luz,Enel (Energia),energia eletrica;conta de luz;enel;fornecedor de energia
+agua,Sabesp,conta de agua;sabesp;fornecedor de agua
+internet,Vivo (Banda Larga),vivo fibra;provedor de internet;wifi;net;internet banda larga
+gas,Comgas,comgas;fornecedor de gas;gas encanado
+lixo,Coleta Municipal,coleta de lixo;limpeza urbana;prefeitura lixo
+iptU,Prefeitura (IPTU),iptu;imposto predial;boleto iptu
+transporte,Bilhete Único (SPTrans),bilhete unico;sptrans;cartao onibus;recarga onibus
