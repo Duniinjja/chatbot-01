@@ -42,4 +42,3 @@ Créditos obrigatórios ao autor original.
 
 ## 📸 Exemplo de uso
 Coloque prints de tela na pasta `imagens/` e referencie aq
-# chatbot-01
