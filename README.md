@@ -1,44 +1,74 @@
-# 🤖 Chatbot em Excel (VBA)
+# 🤖 Chatbot 01 — Erick Alves
 
-Um chatbot funcional desenvolvido totalmente em **Excel + VBA**, capaz de responder perguntas predefinidas, simular um chat e demonstrar como a automação no Excel pode criar experiências interativas.
-
----
-
-## 💡 Funcionalidades
-- Interface de chat intuitiva no Excel;
-- Respostas automáticas baseadas em banco de dados interno;
-- Histórico de conversas básico;
-- Código VBA 100% aberto e comentado;
-- Ideal para aprendizado de automação e lógica de programação.
+Este projeto marca a **evolução de um chatbot criado originalmente em Excel/VBA** para uma **versão web moderna e interativa** desenvolvida em **Python com Streamlit**.
 
 ---
 
-## 🧰 Requisitos
-- Microsoft Excel (versão desktop, Windows ou Mac);
-- Macros habilitadas (`.xlsm`).
+## 🧩 Evolução do Projeto
+
+- 🧮 **Versão Excel/VBA** — primeira implementação, criada para uso local e offline.
+- 💡 **Versão Web (Python + Streamlit)** — reescrita com tecnologias modernas para ser acessível via navegador, gratuita e open-source.
+- 🌐 **Disponível online:** [https://chatbot-01-000001.streamlit.app/](https://chatbot-01-000001.streamlit.app/)
+
+Esta nova versão traz a experiência original para a web, permitindo que qualquer pessoa use, teste e contribua com o projeto.
 
 ---
 
-## 🚀 Como usar
-1. Baixe o arquivo `Chatbot.xlsm`;
-2. Abra-o no Excel;
-3. Vá em **Arquivo > Opções > Central de Confiabilidade > Configurações de Macros** e habilite as macros;
-4. Clique em **Iniciar Chatbot**;
-5. Comece a conversar!
+## 🧠 Funcionalidades
+
+- Base de conhecimento personalizável via **CSV**.
+- Reconhecimento de sinônimos e similaridade semântica.
+- Interface leve e responsiva feita com **Streamlit**.
+- Totalmente **open-source** e sem vínculo empresarial.
 
 ---
 
-## 🧑‍💻 Desenvolvimento
-Projeto pessoal de estudo em automação com VBA e Excel, sem vínculo com empresas.  
-**Autor:** Erick Alves
+## 🚀 Como Executar Localmente
+
+```bash
+git clone https://github.com/Duniinjja/chatbot-01.git
+cd chatbot-01/web
+
+python -m venv .venv
+.venv\Scripts\activate  # (Windows)
+source .venv/bin/activate   # (Mac/Linux)
+
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+Acesse: [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 📜 Licença
-Distribuído sob a licença MIT — uso livre para fins educacionais e pessoais.  
-Créditos obrigatórios ao autor original.
+## ☁️ Hospedagem no Streamlit Cloud
+
+1. Acesse [https://share.streamlit.io](https://share.streamlit.io)
+2. Configure:
+   - **Repo:** `Duniinjja/chatbot-01`
+   - **Branch:** `main`
+   - **Main file path:** `web/app.py`
+3. Clique em **Deploy** 🚀
+
+Seu app ficará disponível publicamente no link gerado.
 
 ---
 
-## 📸 Exemplo de uso
-Coloque prints de tela na pasta `imagens/` e referencie aq
+## 🗃 Estrutura
+
+```bash
+web/
+├─ app.py                # Aplicação principal
+├─ requirements.txt      # Dependências
+├─ data/
+│  └─ faq.csv            # Base de conhecimento pública
+└─ README_WEB.md         # Guia específico da versão web
+```
+
+---
+
+## ✨ Autor
+
+**Erick Alves**  
+💡 Projeto pessoal e educativo, livre para uso e colaboração.  
+🌍 Disponível online: [https://chatbot-01-000001.streamlit.app/](https://chatbot-01-000001.streamlit.app/)
