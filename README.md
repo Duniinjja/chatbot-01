@@ -41,19 +41,6 @@ Acesse: [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## ☁️ Hospedagem no Streamlit Cloud
-
-1. Acesse [https://share.streamlit.io](https://share.streamlit.io)
-2. Configure:
-   - **Repo:** `Duniinjja/chatbot-01`
-   - **Branch:** `main`
-   - **Main file path:** `web/app.py`
-3. Clique em **Deploy** 🚀
-
-Seu app ficará disponível publicamente no link gerado.
-
----
-
 ## 🗃 Estrutura
 
 ```bash
