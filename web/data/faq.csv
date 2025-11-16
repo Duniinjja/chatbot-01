@@ -1,170 +1,160 @@
 pergunta,resposta,sinonimos,resposta_original
-pergunta,Categoria sugerida: Pergunta,sinonimos;;;;;;,resposta
-4net,Categoria sugerida: 4NET,4net;;;;;;,Lançar em INPUT_DESPESA → categoria '4NET' (DRE: 4NET).
-acordo cliente,Categoria sugerida: Acordo Cliente,acordo;cliente;acordo cliente;acordo;cliente;;;;,Lançar em INPUT_DESPESA → categoria 'Acordo Cliente' (DRE: Acordo Cliente).
-adiantamento,Categoria sugerida: Adiantamento,adiantamento;;;;;;,Lançar em INPUT_DESPESA → categoria 'Adiantamento' (DRE: Adiantamento).
-adiantamento (comercial),Categoria sugerida: Adiantamento (Comercial),adiantamento;comercial;adiantamento (comercial);adiantamento;comercial;;;;,Lançar em INPUT_DESPESA → categoria 'Adiantamento (Comercial)' (DRE: Comercial).
-adiantamento (jurídico),Categoria sugerida: Adiantamento (Jurídico),adiantamento;jurídico;adiantamento (jurídico);adiantamento;jurídico;;;;,Lançar em INPUT_DESPESA → categoria 'Adiantamento (Jurídico)' (DRE: Jurídico).
-advogado,Categoria sugerida: Advogado,advogado;advogados;advogado;advogado;advogados;;;;,Lançar em INPUT_DESPESA → categoria 'Advogado' (DRE: Advogado).
-agendamento audiência,Categoria sugerida: Agendamento Audiência,agendamento;audiência;audiencia;agendamento audiência;agendamento;audiência;audiencia;;;,Lançar em INPUT_DESPESA → categoria 'Agendamento Audiência' (DRE: Agendamento Audiência).
-àgua,Categoria sugerida: Àgua,agua;àgua;agua;;;;;,Lançar em INPUT_DESPESA → categoria 'Àgua' (DRE: Àgua).
-algar,Categoria sugerida: Algar,algar;;;;;;,Lançar em INPUT_DESPESA → categoria 'algar' (DRE: algar).
-aluguel,Categoria sugerida: Aluguel,aluguel;;;;;;,Lançar em INPUT_DESPESA → categoria 'Aluguel' (DRE: Aluguel).
-aluguel das máquinas,Categoria sugerida: Aluguel das Máquinas,aluguel;das;máquinas;aluguel das maquinas;aluguel das máquinas;aluguel;das;máquinas;aluguel das maquinas;;,Lançar em INPUT_DESPESA → categoria 'Aluguel das Máquinas' (DRE: Aluguel das Máquinas).
-aluguel toalhas mesas,Categoria sugerida: Aluguel Toalhas Mesas,aluguel;toalhas;mesas;aluguel toalhas;aluguel toalhas mesas;aluguel;toalhas;mesas;aluguel toalhas;;,Lançar em INPUT_DESPESA → categoria 'Aluguel Toalhas Mesas' (DRE: Aluguel Toalhas Mesas).
-b.brasil,Categoria sugerida: B.Brasil,b;brasil;banco do brasil;b.brasil;b;brasil;banco do brasil;;;,Lançar em INPUT_DESPESA → categoria 'B.Brasil' (DRE: B.Brasil).
-beneficíos,Categoria sugerida: Beneficíos,benefícios;beneficíos;benefícios;;;;;,Lançar em INPUT_DESPESA → categoria 'Beneficíos' (DRE: Beneficíos).
-benfeitorias que ficarão no imoveis,Categoria sugerida: Benfeitorias que ficarão no imoveis,benfeitorias;que;ficarão;no;imoveis;benfeitorias que ficarão no imoveis;benfeitorias;que;ficarão;no;imoveis;,Lançar em INPUT_DESPESA → categoria 'Benfeitorias que ficarão no imoveis' (DRE: Benfeitorias que ficarão no imoveis).
-bradesco,Categoria sugerida: Bradesco,banco bradesco;banco do bradesco;bradesco;banco bradesco;banco do bradesco;;;;,Lançar em INPUT_DESPESA → categoria 'Bradesco' (DRE: Bradesco).
-caixa,Categoria sugerida: Caixa,caixa;;;;;;,Lançar em INPUT_DESPESA → categoria 'Caixa' (DRE: Caixa).
-caixa do grupo,Categoria sugerida: Caixa do grupo,caixa;do;grupo;caixa do grupo;caixa;do;grupo;;;,Lançar em INPUT_DESPESA → categoria 'Caixa do grupo' (DRE: Caixa do grupo).
-caixa uop,Categoria sugerida: Caixa UOP,caixa;uop;caixa uop;caixa;uop;;;;,Lançar em INPUT_DESPESA → categoria 'Caixa UOP' (DRE: Caixa UOP).
-carros,Categoria sugerida: Carros,Carro;CARROS;CARRO;carros;Carro;CARROS;CARRO;;;,Lançar em INPUT_DESPESA → categoria 'Carros' (DRE: Carros).
-cartão de crédito,Categoria sugerida: Cartão de Crédito,cartão;de;crédito;cartão de crédito;cartão;de;crédito;;;,Lançar em INPUT_DESPESA → categoria 'Cartão de Crédito' (DRE: Cartão de Crédito).
-chargeback,Categoria sugerida: Chargeback,cbk;cb;chargeback;cbk;cb;;;;,Lançar em INPUT_DESPESA → categoria 'Chargeback' (DRE: Chargeback).
-cliksing,Categoria sugerida: Cliksing,cliksing;;;;;;,Lançar em INPUT_DESPESA → categoria 'Cliksing' (DRE: Cliksing).
-combustível,Categoria sugerida: Combustível,combustível;;;;;;,Lançar em INPUT_DESPESA → categoria 'Combustível' (DRE: Combustível).
-comercial,Categoria sugerida: Comercial,comercial;;;;;;,Lançar em INPUT_DESPESA → categoria 'Comercial' (DRE: Comercial).
-comissão,Categoria sugerida: Comissão,comissão;;;;;;,Lançar em INPUT_DESPESA → categoria 'Comissão' (DRE: Comissão).
-comissão (comercial),Categoria sugerida: Comissão (Comercial),comissão;comercial;comissão (comercial);comissão;comercial;;;;,Lançar em INPUT_DESPESA → categoria 'Comissão (Comercial)' (DRE: Comercial).
-comissão (jurídico),Categoria sugerida: Comissão (Jurídico),comissão;jurídico;comissão (jurídico);comissão;jurídico;;;;,Lançar em INPUT_DESPESA → categoria 'Comissão (Jurídico)' (DRE: Jurídico).
-comissão (líder),Categoria sugerida: Comissão (Líder),comissão;líder;comissão (líder);comissão;líder;;;;,Lançar em INPUT_DESPESA → categoria 'Comissão (Líder)' (DRE: Líder).
-comissões,Categoria sugerida: Comissões,comissões;;;;;;,Lançar em INPUT_DESPESA → categoria 'Comissões' (DRE: Comissões).
-compra de eletros,Categoria sugerida: Compra de eletros,compra;de;eletros;compra de eletros;compra;de;eletros;;;,Lançar em INPUT_DESPESA → categoria 'Compra de eletros' (DRE: Compra de eletros).
-compra de equipamentos para operação,Categoria sugerida: Compra de equipamentos para operação,compra;de;equipamentos;para;operação;compra de equipamentos para operação;compra;de;equipamentos;para;operação;,Lançar em INPUT_DESPESA → categoria 'Compra de equipamentos para operação' (DRE: Compra de equipamentos para operação).
-compra de móveis,Categoria sugerida: Compra de móveis,compra;de;móveis;compra de móveis;compra;de;móveis;;;,Lançar em INPUT_DESPESA → categoria 'Compra de móveis' (DRE: Compra de móveis).
-conciliação de audiência,Categoria sugerida: Conciliação de Audiência,conciliação;de;audiência;conciliação de audiência;conciliação;de;audiência;;;,Lançar em INPUT_DESPESA → categoria 'Conciliação de Audiência' (DRE: Conciliação de Audiência).
-confraternização,Categoria sugerida: Confraternização,confraternização;;;;;;,Lançar em INPUT_DESPESA → categoria 'Confraternização' (DRE: Confraternização).
-consórcio,Categoria sugerida: Consórcio,consórcio;;;;;;,Lançar em INPUT_DESPESA → categoria 'Consórcio' (DRE: Consórcio).
-consultorias,Categoria sugerida: Consultorias,consultorias;;;;;;,Lançar em INPUT_DESPESA → categoria 'Consultorias' (DRE: Consultorias).
-contabilidade,Categoria sugerida: Contabilidade,contabilidade;;;;;;,Lançar em INPUT_DESPESA → categoria 'Contabilidade' (DRE: Contabilidade).
-convênio,Categoria sugerida: Convênio,convênio;;;;;;,Lançar em INPUT_DESPESA → categoria 'Convênio' (DRE: Convênio).
-convênio farmais,Categoria sugerida: Convênio Farmais,convênio;farmais;convênio farmais;convênio;farmais;;;;,Lançar em INPUT_DESPESA → categoria 'Convênio Farmais' (DRE: Convênio Farmais).
-convênio médico,Categoria sugerida: Convênio Médico,convênio;médico;convênio médico;convênio;médico;;;;,Lançar em INPUT_DESPESA → categoria 'Convênio Médico' (DRE: Convênio Médico).
-convênio médico (comercial),Categoria sugerida: Convênio Médico (Comercial),convênio;médico;comercial;convênio médico (comercial);convênio;médico;comercial;;;,Lançar em INPUT_DESPESA → categoria 'Convênio Médico (Comercial)' (DRE: Comercial).
-convênio médico (jurídico),Categoria sugerida: Convênio Médico (Jurídico),convênio;médico;jurídico;convênio médico (jurídico);convênio;médico;jurídico;;;,Lançar em INPUT_DESPESA → categoria 'Convênio Médico (Jurídico)' (DRE: Jurídico).
-copa,Categoria sugerida: Copa,copa;;;;;;,Lançar em INPUT_DESPESA → categoria 'Copa' (DRE: Copa).
-correio,Categoria sugerida: Correio,correio;;;;;;,Lançar em INPUT_DESPESA → categoria 'Correio' (DRE: Correio).
-darf,Categoria sugerida: DARF,darf;;;;;;,Lançar em INPUT_DESPESA → categoria 'DARF' (DRE: DARF).
-decoração,Categoria sugerida: Decoração,decoração;;;;;;,Lançar em INPUT_DESPESA → categoria 'Decoração' (DRE: Decoração).
-devolução da empresa para o sócio,Categoria sugerida: Devolução da empresa para o sócio,devolução;da;empresa;para;o;sócio;devolução da empresa para o sócio;devolução;da;empresa;para;o;sócio,Lançar em INPUT_DESPESA → categoria 'Devolução da empresa para o sócio' (DRE: Devolução da empresa para o sócio).
-devolução sócio,Categoria sugerida: Devolução sócio,devolução;sócio;devolução sócio;devolução;sócio;;;;,Lançar em INPUT_DESPESA → categoria 'Devolução sócio' (DRE: Devolução sócio).
-digisac,Categoria sugerida: Digisac,digisac;;;;;;,Lançar em INPUT_DESPESA → categoria 'Digisac' (DRE: Digisac).
-discador,Categoria sugerida: Discador,discador;;;;;;,Lançar em INPUT_DESPESA → categoria 'Discador' (DRE: Discador).
-discador oncall,Categoria sugerida: Discador Oncall,discador;oncall;discador oncall;discador;oncall;;;;,Lançar em INPUT_DESPESA → categoria 'Discador Oncall' (DRE: Discador Oncall).
-elite,Categoria sugerida: Elite,elite;;;;;;,Lançar em INPUT_DESPESA → categoria 'Elite' (DRE: Elite).
-elite imóvel,Categoria sugerida: Elite imóvel,elite;imóvel;elite imóvel;elite;imóvel;;;;,Lançar em INPUT_DESPESA → categoria 'Elite imóvel' (DRE: Elite imóvel).
-embalagens m.m,Categoria sugerida: Embalagens M.M,embalagens;m;embalagens m.m;embalagens;m;;;;,Lançar em INPUT_DESPESA → categoria 'Embalagens M.M' (DRE: Embalagens M.M).
-empréstimo,Categoria sugerida: Empréstimo,empréstimo;;;;;;,Lançar em INPUT_DESPESA → categoria 'Empréstimo' (DRE: Empréstimo).
-empréstimo b. brasil,Categoria sugerida: Empréstimo B. Brasil,empréstimo;b;brasil;empréstimo b. brasil;empréstimo;b;brasil;;;,Lançar em INPUT_DESPESA → categoria 'Empréstimo B. Brasil' (DRE: Empréstimo B. Brasil).
-empréstimo colaborador,Categoria sugerida: Empréstimo Colaborador,empréstimo;colaborador;empréstimo colaborador;empréstimo;colaborador;;;;,Lançar em INPUT_DESPESA → categoria 'Empréstimo Colaborador' (DRE: Empréstimo Colaborador).
-endomarketing,Categoria sugerida: Endomarketing,endomarketing;;;;;;,Lançar em INPUT_DESPESA → categoria 'Endomarketing' (DRE: Endomarketing).
-enel (energia),Categoria sugerida: Enel (energia),enel;energia;luz;despesa com energia;enel (energia);enel;energia;luz;despesa com energia;;,Lançar em INPUT_DESPESA → categoria 'Enel (energia)' (DRE: energia).
-entre empresas,Categoria sugerida: Entre empresas,entre;empresas;transferencia para empresa;entre empresas;entre;empresas;transferencia para empresa;;;,Lançar em INPUT_DESPESA → categoria 'Entre empresas' (DRE: Entre empresas).
-escritorio,Categoria sugerida: Escritorio,escritorio;;;;;;,Lançar em INPUT_DESPESA → categoria 'Escritorio' (DRE: Escritorio).
-exame médico,Categoria sugerida: Exame médico,exame;médico;exame médico;exame;médico;;;;,Lançar em INPUT_DESPESA → categoria 'Exame médico' (DRE: Exame médico).
-farmacia,Categoria sugerida: Farmacia,farmacia;;;;;;,Lançar em INPUT_DESPESA → categoria 'Farmacia' (DRE: Farmacia).
-férias,Categoria sugerida: Férias,férias;;;;;;,Lançar em INPUT_DESPESA → categoria 'Férias' (DRE: Férias).
-fgts,Categoria sugerida: FGTS,fgts;;;;;;,Lançar em INPUT_DESPESA → categoria 'FGTS' (DRE: FGTS).
-filtros soft,Categoria sugerida: Filtros Soft,filtros;soft;filtros soft;filtros;soft;;;;,Lançar em INPUT_DESPESA → categoria 'Filtros Soft' (DRE: Filtros Soft).
-fornecedor,Categoria sugerida: Fornecedor,fornecedor;;;;;;,Lançar em INPUT_DESPESA → categoria 'Fornecedor' (DRE: Fornecedor).
-funcionários testes,Categoria sugerida: Funcionários Testes,funcionários;testes;funcionários testes;funcionários;testes;;;;,Lançar em INPUT_DESPESA → categoria 'Funcionários Testes' (DRE: Funcionários Testes).
-gestão mensalidade,Categoria sugerida: Gestão mensalidade,gestão;mensalidade;gestão mensalidade;gestão;mensalidade;;;;,Lançar em INPUT_DESPESA → categoria 'Gestão mensalidade' (DRE: Gestão mensalidade).
-gps,Categoria sugerida: GPS,gps;;;;;;,Lançar em INPUT_DESPESA → categoria 'GPS' (DRE: GPS).
-guia de custas,Categoria sugerida: Guia de Custas,guia;de;custas;guia de custas;guia;de;custas;;;,Lançar em INPUT_DESPESA → categoria 'Guia de Custas' (DRE: Guia de Custas).
-help desk,Categoria sugerida: Help Desk,help;desk;help desk;help;desk;;;;,Lançar em INPUT_DESPESA → categoria 'Help Desk' (DRE: Help Desk).
-indicação,Categoria sugerida: Indicação,indicação;;;;;;,Lançar em INPUT_DESPESA → categoria 'Indicação' (DRE: Indicação).
-informática,Categoria sugerida: Informática,informática;;;;;;,Lançar em INPUT_DESPESA → categoria 'Informática' (DRE: Informática).
-inss,Categoria sugerida: INSS,inss;;;;;;,Lançar em INPUT_DESPESA → categoria 'INSS' (DRE: INSS).
-internet (vivo e claro),Categoria sugerida: Internet (Vivo e Claro),internet;vivo;e;claro;internet (vivo e claro);internet;vivo;e;claro;;,Lançar em INPUT_DESPESA → categoria 'Internet (Vivo e Claro)' (DRE: Vivo e Claro).
-iptu,Categoria sugerida: IPTU,boleto iptu;imposto predial;iptu;tributo municipal,Lançar em INPUT_DESPESA → categoria 'IPTU' (DRE: IPTU).
-king jobs,Categoria sugerida: King jobs,king;jobs;king jobs;king;jobs;;;;,Lançar em INPUT_DESPESA → categoria 'King jobs' (DRE: King jobs).
-laudos,Categoria sugerida: Laudos,laudos;;;;;;,Lançar em INPUT_DESPESA → categoria 'Laudos' (DRE: Laudos).
-laudos terceiros,Categoria sugerida: Laudos terceiros,laudos;terceiros;laudos terceiros;laudos;terceiros;;;;,Lançar em INPUT_DESPESA → categoria 'Laudos terceiros' (DRE: Laudos terceiros).
-leads,Categoria sugerida: Leads,leads;;;;;;,Lançar em INPUT_DESPESA → categoria 'Leads' (DRE: Leads).
-leads recrutamento,Categoria sugerida: Leads Recrutamento,leads;recrutamento;leads recrutamento;leads;recrutamento;;;;,Lançar em INPUT_DESPESA → categoria 'Leads Recrutamento' (DRE: Leads Recrutamento).
-limpa nome,Categoria sugerida: Limpa nome,limpa;nome;limpa nome;limpa;nome;;;;,Lançar em INPUT_DESPESA → categoria 'Limpa nome' (DRE: Limpa nome).
-m.m embalagens,Categoria sugerida: M.M Embalagens,m;embalagens;m.m embalagens;m;embalagens;;;;,Lançar em INPUT_DESPESA → categoria 'M.M Embalagens' (DRE: M.M Embalagens).
-manutenção ar condicionado,Categoria sugerida: Manutenção ar condicionado,manutenção;ar;condicionado;manutenção ar condicionado;manutenção;ar;condicionado;;;,Lançar em INPUT_DESPESA → categoria 'Manutenção ar condicionado' (DRE: Manutenção ar condicionado).
-manutenção predial,Categoria sugerida: Manutenção Predial,manutenção;predial;manutenção predial;manutenção;predial;;;;,Lançar em INPUT_DESPESA → categoria 'Manutenção Predial' (DRE: Manutenção Predial).
-mão de obra reforma,Categoria sugerida: Mão de Obra reforma,mão;de;obra;reforma;mão de obra reforma;mão;de;obra;reforma;;,Lançar em INPUT_DESPESA → categoria 'Mão de Obra reforma' (DRE: Mão de Obra reforma).
-marketing,Categoria sugerida: Marketing,marketing;;;;;;,Lançar em INPUT_DESPESA → categoria 'Marketing' (DRE: Marketing).
-marketing interno,Categoria sugerida: Marketing interno,marketing;interno;marketing interno;marketing;interno;;;;,Lançar em INPUT_DESPESA → categoria 'Marketing interno' (DRE: Marketing interno).
-materiais,Categoria sugerida: Materiais,materiais;;;;;;,Lançar em INPUT_DESPESA → categoria 'Materiais' (DRE: Materiais).
-materiais escritório,Categoria sugerida: Materiais escritório,materiais;escritório;materiais escritório;materiais;escritório;;;;,Lançar em INPUT_DESPESA → categoria 'Materiais escritório' (DRE: Materiais escritório).
-material de limpeza,Categoria sugerida: Material de Limpeza,material;de;limpeza;material de limpeza;material;de;limpeza;;;,Lançar em INPUT_DESPESA → categoria 'Material de Limpeza' (DRE: Material de Limpeza).
-material informática,Categoria sugerida: Material Informática,material;informática;material informática;material;informática;;;;,Lançar em INPUT_DESPESA → categoria 'Material Informática' (DRE: Material Informática).
-material manutenção,Categoria sugerida: Material Manutenção,material;manutenção;material manutenção;material;manutenção;;;;,Lançar em INPUT_DESPESA → categoria 'Material Manutenção' (DRE: Material Manutenção).
-mediari,Categoria sugerida: Mediari,mediari;;;;;;,Lançar em INPUT_DESPESA → categoria 'Mediari' (DRE: Mediari).
-mercado,Categoria sugerida: Mercado,mercado;;;;;;,Lançar em INPUT_DESPESA → categoria 'Mercado' (DRE: Mercado).
-ótica,Categoria sugerida: Ótica,ótica;;;;;;,Lançar em INPUT_DESPESA → categoria 'Ótica' (DRE: Ótica).
-outro fornecedor,Categoria sugerida: Outro fornecedor,outro;fornecedor;outro fornecedor;outro;fornecedor;;;;,Lançar em INPUT_DESPESA → categoria 'Outro fornecedor' (DRE: Outro fornecedor).
-outros,Categoria sugerida: Outros,outros;;;;;;,Lançar em INPUT_DESPESA → categoria 'Outros' (DRE: Outros).
-outros benefícios,Categoria sugerida: Outros Benefícios,outros;benefícios;outros benefícios;outros;benefícios;;;;,Lançar em INPUT_DESPESA → categoria 'Outros Benefícios' (DRE: Outros Benefícios).
-outros prejuízos,Categoria sugerida: Outros prejuízos,outros;prejuízos;outros prejuízos;outros;prejuízos;;;;,Lançar em INPUT_DESPESA → categoria 'Outros prejuízos' (DRE: Outros prejuízos).
-outros social mídia,Categoria sugerida: Outros social mídia,outros;social;mídia;outros social mídia;outros;social;mídia;;;,Lançar em INPUT_DESPESA → categoria 'Outros social mídia' (DRE: Outros social mídia).
-outros tipos de materiais,Categoria sugerida: Outros tipos de materiais,outros;tipos;de;materiais;outros tipos de materiais;outros;tipos;de;materiais;;,Lançar em INPUT_DESPESA → categoria 'Outros tipos de materiais' (DRE: Outros tipos de materiais).
-palestra,Categoria sugerida: Palestra,palestra;;;;;;,Lançar em INPUT_DESPESA → categoria 'Palestra' (DRE: Palestra).
-patrimonial,Categoria sugerida: Patrimonial,patrimonial;;;;;;,Lançar em INPUT_DESPESA → categoria 'Patrimonial' (DRE: Patrimonial).
-prejuizo,Categoria sugerida: Prejuizo,prejuizo;;;;;;,Lançar em INPUT_DESPESA → categoria 'Prejuizo' (DRE: Prejuizo).
-premiação,Categoria sugerida: Premiação,premiação;;;;;;,Lançar em INPUT_DESPESA → categoria 'Premiação' (DRE: Premiação).
-premiação (comercial),Categoria sugerida: Premiação (Comercial),premiação;comercial;premiação (comercial);premiação;comercial;;;;,Lançar em INPUT_DESPESA → categoria 'Premiação (Comercial)' (DRE: Comercial).
-premiação (empresa),Categoria sugerida: Premiação (Empresa),premiação;empresa;premiação (empresa);premiação;empresa;;;;,Lançar em INPUT_DESPESA → categoria 'Premiação (Empresa)' (DRE: Empresa).
-premiação (jurídico),Categoria sugerida: Premiação (Jurídico),premiação;jurídico;premiação (jurídico);premiação;jurídico;;;;,Lançar em INPUT_DESPESA → categoria 'Premiação (Jurídico)' (DRE: Jurídico).
-premiação diária,Categoria sugerida: Premiação diária,premiação;diária;premiação diária;premiação;diária;;;;,Lançar em INPUT_DESPESA → categoria 'Premiação diária' (DRE: Premiação diária).
-premiação mensal,Categoria sugerida: Premiação mensal,premiação;mensal;premiação mensal;premiação;mensal;;;;,Lançar em INPUT_DESPESA → categoria 'premiação mensal' (DRE: premiação mensal).
-premiação quinzenal,Categoria sugerida: Premiação quinzenal,premiação;quinzenal;premiação quinzenal;premiação;quinzenal;;;;,Lançar em INPUT_DESPESA → categoria 'Premiação quinzenal' (DRE: Premiação quinzenal).
-premiação semanal,Categoria sugerida: Premiação semanal,premiação;semanal;premiação semanal;premiação;semanal;;;;,Lançar em INPUT_DESPESA → categoria 'Premiação semanal' (DRE: Premiação semanal).
-processo trabalhista,Categoria sugerida: Processo Trabalhista,processo;trabalhista;processo trabalhista;processo;trabalhista;;;;,Lançar em INPUT_DESPESA → categoria 'Processo Trabalhista' (DRE: Processo Trabalhista).
-processual,Categoria sugerida: Processual,processual;;;;;;,Lançar em INPUT_DESPESA → categoria 'Processual' (DRE: Processual).
-produto de limpeza,Categoria sugerida: Produto de limpeza,produto;de;limpeza;produto de limpeza;produto;de;limpeza;;;,Lançar em INPUT_DESPESA → categoria 'produto de limpeza' (DRE: produto de limpeza).
-programas administrativos,Categoria sugerida: Programas Administrativos,programas;administrativos;programas administrativos;programas;administrativos;;;;,Lançar em INPUT_DESPESA → categoria 'Programas Administrativos' (DRE: Programas Administrativos).
-pró-labore uop,Categoria sugerida: Pró-labore UOP,pró;labore;uop;pró-labore uop;pró;labore;uop;;;,Lançar em INPUT_DESPESA → categoria 'Pró-labore UOP' (DRE: Pró-labore UOP).
-pró-labore,Categoria sugerida: Pró-labore,pró;labore;prola;pró-labore;pró;labore;prola;;;,Lançar em INPUT_DESPESA → categoria 'Pró-labore' (DRE: Pró-labore).
-pró-labore total,Categoria sugerida: Pró-labore Total,pró;labore;total;pró-labore total;pró;labore;total;;;,Lançar em INPUT_DESPESA → categoria 'Pró-labore Total' (DRE: Pró-labore Total).
-pronamp,Categoria sugerida: Pronamp,pronamp;;;;;;,Lançar em INPUT_DESPESA → categoria 'Pronamp' (DRE: Pronamp).
-propaganda,Categoria sugerida: Propaganda,propaganda;;;;;;,Lançar em INPUT_DESPESA → categoria 'Propaganda' (DRE: Propaganda).
-recarga,Categoria sugerida: Recarga,recarga;;;;;;,Lançar em INPUT_DESPESA → categoria 'Recarga' (DRE: Recarga).
-reclame aqui,Categoria sugerida: Reclame Aqui,reclame;aqui;reclame aqui;reclame;aqui;;;;,Lançar em INPUT_DESPESA → categoria 'Reclame Aqui' (DRE: Reclame Aqui).
-reforma,Categoria sugerida: Reforma,reforma;;;;;;,Lançar em INPUT_DESPESA → categoria 'Reforma' (DRE: Reforma).
-relógio de ponto,Categoria sugerida: Relógio de ponto,relógio;de;ponto;relógio de ponto;relógio;de;ponto;;;,Lançar em INPUT_DESPESA → categoria 'Relógio de ponto' (DRE: Relógio de ponto).
-rescisão,Categoria sugerida: Rescisão,rescisão;;;;;;,Lançar em INPUT_DESPESA → categoria 'Rescisão' (DRE: Rescisão).
-rescisão (comercial),Categoria sugerida: Rescisão (Comercial),rescisão;comercial;rescisão (comercial);rescisão;comercial;;;;,Lançar em INPUT_DESPESA → categoria 'Rescisão (Comercial)' (DRE: Comercial).
-rescisão (jurídico),Categoria sugerida: Rescisão (Jurídico),rescisão;jurídico;rescisão (jurídico);rescisão;jurídico;;;;,Lançar em INPUT_DESPESA → categoria 'Rescisão (Jurídico)' (DRE: Jurídico).
-sabesp,Categoria sugerida: SABESP,sabesp;;;;;;,Lançar em INPUT_DESPESA → categoria 'SABESP' (DRE: SABESP).
-salários,Categoria sugerida: Salários,salários;;;;;;,Lançar em INPUT_DESPESA → categoria 'Salários' (DRE: Salários).
-salários (comercial),Categoria sugerida: Salários (Comercial),salários;comercial;salários (comercial);salários;comercial;;;;,Lançar em INPUT_DESPESA → categoria 'Salários (Comercial)' (DRE: Comercial).
-salários (jurídico),Categoria sugerida: Salários (Jurídico),salários;jurídico;salários (jurídico);salários;jurídico;;;;,Lançar em INPUT_DESPESA → categoria 'Salários (Jurídico)' (DRE: Jurídico).
-segurança,Categoria sugerida: Segurança,segurança;;;;;;,Lançar em INPUT_DESPESA → categoria 'segurança' (DRE: segurança).
-seguro protegido b. brasil,Categoria sugerida: Seguro Protegido B. Brasil,seguro;protegido;b;brasil;seguro protegido b. brasil;seguro;protegido;b;brasil;;,Lançar em INPUT_DESPESA → categoria 'Seguro Protegido B. Brasil' (DRE: Seguro Protegido B. Brasil).
-simples nacional,Categoria sugerida: Simples Nacional,simples;nacional;simples nacional;simples;nacional;;;;,Lançar em INPUT_DESPESA → categoria 'Simples Nacional' (DRE: Simples Nacional).
-solft,Categoria sugerida: Solft,solft;;;;;;,Lançar em INPUT_DESPESA → categoria 'Solft' (DRE: Solft).
-tarifas,Categoria sugerida: Tarifas,tarifas;;;;;;,Lançar em INPUT_DESPESA → categoria 'Tarifas' (DRE: Tarifas).
-tarifas bancárias,Categoria sugerida: Tarifas Bancárias,tarifas;bancárias;tarifas bancárias;tarifas;bancárias;;;;,Lançar em INPUT_DESPESA → categoria 'Tarifas Bancárias' (DRE: Tarifas Bancárias).
-taxas,Categoria sugerida: Taxas,taxas;;;;;;,Lançar em INPUT_DESPESA → categoria 'Taxas' (DRE: Taxas).
-tecno juris,Categoria sugerida: Tecno juris,tecno;juris;tecno juris;tecno;juris;;;;,Lançar em INPUT_DESPESA → categoria 'Tecno juris' (DRE: Tecno juris).
-telefonia e internet,Categoria sugerida: Telefonia e internet,telefonia;e;internet;telefone;telefonia e internet;telefonia;e;internet;telefone;;,Lançar em INPUT_DESPESA → categoria 'telefonia e internet' (DRE: telefonia e internet).
-tfe,Categoria sugerida: TFE,tfe;;;;;;,Lançar em INPUT_DESPESA → categoria 'TFE' (DRE: TFE).
-ti,Categoria sugerida: TI,ti;;;;;;,Lançar em INPUT_DESPESA → categoria 'TI' (DRE: TI).
-transferência entre empresas,Categoria sugerida: Transferência entre empresas,transferência;entre;empresas;transferência entre empresas;transferência;entre;empresas;;;,Lançar em INPUT_DESPESA → categoria 'Transferência entre empresas' (DRE: Transferência entre empresas).
-transporte app (uber/99/taxi),Categoria sugerida: Transporte App (Uber/99/taxi),transporte;app;uber;99;taxi;transporte app (uber/99/taxi);transporte;app;uber;99;taxi;,Lançar em INPUT_DESPESA → categoria 'Transporte App (Uber/99/taxi)' (DRE: Uber/99/taxi).
-treinamento,Categoria sugerida: Treinamento,treinamento;;;;;;,Lançar em INPUT_DESPESA → categoria 'Treinamento' (DRE: Treinamento).
-uop,Categoria sugerida: UOP,uop;;;;;;,Lançar em INPUT_DESPESA → categoria 'UOP' (DRE: UOP).
-vale alimentação,Categoria sugerida: Vale Alimentação,vale;alimentação;vale alimentação;vale;alimentação;;;;,Lançar em INPUT_DESPESA → categoria 'Vale Alimentação' (DRE: Vale Alimentação).
-vale alimentação (comercial),Categoria sugerida: Vale Alimentação (Comercial),vale;alimentação;comercial;vale alimentação (comercial);vale;alimentação;comercial;;;,Lançar em INPUT_DESPESA → categoria 'Vale Alimentação (Comercial)' (DRE: Comercial).
-vale alimentação (jurídico),Categoria sugerida: Vale Alimentação (Jurídico),vale;alimentação;jurídico;vale alimentação (jurídico);vale;alimentação;jurídico;;;,Lançar em INPUT_DESPESA → categoria 'Vale Alimentação (Jurídico)' (DRE: Jurídico).
-vale refeição,Categoria sugerida: Vale Refeição,vale;refeição;vale refeição;vale;refeição;;;;,Lançar em INPUT_DESPESA → categoria 'Vale Refeição' (DRE: Vale Refeição).
-vale refeição (comercial),Categoria sugerida: Vale Refeição (Comercial),vale;refeição;comercial;vale refeição (comercial);vale;refeição;comercial;;;,Lançar em INPUT_DESPESA → categoria 'Vale Refeição (Comercial)' (DRE: Comercial).
-vale refeição (jurídico),Categoria sugerida: Vale Refeição (Jurídico),vale;refeição;jurídico;vale refeição (jurídico);vale;refeição;jurídico;;;,Lançar em INPUT_DESPESA → categoria 'Vale Refeição (Jurídico)' (DRE: Jurídico).
-vale transporte,Categoria sugerida: Vale Transporte,vale;transporte;vale transporte;vale;transporte;;;;,Lançar em INPUT_DESPESA → categoria 'Vale Transporte' (DRE: Vale Transporte).
-vale transporte (comercial),Categoria sugerida: Vale Transporte (Comercial),vale;transporte;comercial;vale transporte (comercial);vale;transporte;comercial;;;,Lançar em INPUT_DESPESA → categoria 'Vale Transporte (Comercial)' (DRE: Comercial).
-vale transporte (jurídico),Categoria sugerida: Vale Transporte (Jurídico),vale;transporte;jurídico;vale transporte (jurídico);vale;transporte;jurídico;;;,Lançar em INPUT_DESPESA → categoria 'Vale Transporte (Jurídico)' (DRE: Jurídico).
-verisure,Categoria sugerida: Verisure,verisure;;;;;;,Lançar em INPUT_DESPESA → categoria 'verisure' (DRE: verisure).
-compra de equipamentos,Categoria sugerida: Compra de equipamentos,computador;pc;notebook;laptop;desktop;micro;máquina;equipamento de informática;compra de computador;compra de notebook;aquisição de equipamento;aquisição de notebook,compra de equipamentos
-telefonia,Categoria sugerida: Telefonia,telefone;celular;smartphone;linha telefonica;plano de celular;chip;conta de telefone,Lançar em INPUT_DESPESA → categoria 'Telefonia' (DRE: Telefonia).
-internet,Categoria sugerida: Internet,wifi;banda larga;roteador;provedor;vivo fibra;claro net;oi fibra,Lançar em INPUT_DESPESA → categoria 'Internet' (DRE: Internet).
-energia,Categoria sugerida: Energia,luz;conta de luz;enel;eletricidade;energia eletrica,Lançar em INPUT_DESPESA → categoria 'Energia' (DRE: Energia).
-agua,Categoria sugerida: Agua,sabesp;conta de agua;conta de água;fornecedor de agua,Lançar em INPUT_DESPESA → categoria 'Agua' (DRE: Agua).
-gas,Categoria sugerida: Gas,comgas;gás encanado;fornecedor de gás,Lançar em INPUT_DESPESA → categoria 'Gas' (DRE: Gas).
-lixo,Categoria sugerida: Lixo,coleta;limpeza urbana;coleta seletiva;prefeitura lixo,Lançar em INPUT_DESPESA → categoria 'Lixo' (DRE: Lixo).
-transporte,Categoria sugerida: Transporte,bilhete unico;sptrans;recarga onibus;cartao onibus;metrô;trem,Lançar em INPUT_DESPESA → categoria 'Transporte' (DRE: Transporte).
+4NET,Categoria sugerida: 4NET,4net;,Lançar em INPUT_DESPESA → categoria '4NET' (DRE: 4NET).
+Acordo Cliente,Categoria sugerida: Acordo Cliente,acordo cliente;acordo;cliente;;,Lançar em INPUT_DESPESA → categoria 'Acordo Cliente' (DRE: Acordo Cliente).
+Adiantamento,Categoria sugerida: Adiantamento,adiantamento;,Lançar em INPUT_DESPESA → categoria 'Adiantamento' (DRE: Adiantamento).
+Adiantamento (Comercial),Categoria sugerida: Adiantamento (Comercial),adiantamento (comercial);adiantamento;comercial;,Lançar em INPUT_DESPESA → categoria 'Adiantamento (Comercial)' (DRE: Comercial).
+Adiantamento (Jurídico),Categoria sugerida: Adiantamento (Jurídico),adiantamento (jurídico);adiantamento;jurídico;,Lançar em INPUT_DESPESA → categoria 'Adiantamento (Jurídico)' (DRE: Jurídico).
+Advogado,Categoria sugerida: Advogado,advogado;advogado;advogados;advo;,Lançar em INPUT_DESPESA → categoria 'Advogado' (DRE: Advogado).
+Agendamento Audiência,Categoria sugerida: Agendamento Audiência,agendamento audiência;agendamento;audiência;audiencia;,Lançar em INPUT_DESPESA → categoria 'Agendamento Audiência' (DRE: Agendamento Audiência).
+Àgua,Categoria sugerida: Àgua,àgua;agua;,Lançar em INPUT_DESPESA → categoria 'Àgua' (DRE: Àgua).
+algar,Categoria sugerida: algar,algar;,Lançar em INPUT_DESPESA → categoria 'algar' (DRE: algar).
+Aluguel,Categoria sugerida: Aluguel,aluguel;,Lançar em INPUT_DESPESA → categoria 'Aluguel' (DRE: Aluguel).
+Aluguel das Máquinas,Categoria sugerida: Aluguel das Máquinas,aluguel das máquinas;aluguel;das;máquinas;aluguel das maquinas;,Lançar em INPUT_DESPESA → categoria 'Aluguel das Máquinas' (DRE: Aluguel das Máquinas).
+Aluguel Toalhas Mesas,Categoria sugerida: Aluguel Toalhas Mesas,aluguel toalhas mesas;aluguel;toalhas;mesas;aluguel toalhas;,Lançar em INPUT_DESPESA → categoria 'Aluguel Toalhas Mesas' (DRE: Aluguel Toalhas Mesas).
+B.Brasil,Categoria sugerida: B.Brasil,b.brasil;b;brasil;banco do brasil;,Lançar em INPUT_DESPESA → categoria 'B.Brasil' (DRE: B.Brasil).
+Beneficíos,Categoria sugerida: Beneficíos,beneficíos;benefícios;,Lançar em INPUT_DESPESA → categoria 'Beneficíos' (DRE: Beneficíos).
+Benfeitorias que ficarão no imoveis,Categoria sugerida: Benfeitorias que ficarão no imoveis,benfeitorias que ficarão no imoveis;benfeitorias;que;ficarão;no;imoveis;imovel;,Lançar em INPUT_DESPESA → categoria 'Benfeitorias que ficarão no imoveis' (DRE: Benfeitorias que ficarão no imoveis).
+Bradesco,Categoria sugerida: Bradesco,bradesco;banco bradesco;banco do bradesco;;,Lançar em INPUT_DESPESA → categoria 'Bradesco' (DRE: Bradesco).
+Caixa,Categoria sugerida: Caixa,caixa;,Lançar em INPUT_DESPESA → categoria 'Caixa' (DRE: Caixa).
+Caixa do grupo,Categoria sugerida: Caixa do grupo,caixa do grupo;caixa;do;grupo;,Lançar em INPUT_DESPESA → categoria 'Caixa do grupo' (DRE: Caixa do grupo).
+Caixa UOP,Categoria sugerida: Caixa UOP,caixa uop;caixa;uop;,Lançar em INPUT_DESPESA → categoria 'Caixa UOP' (DRE: Caixa UOP).
+Carros,Categoria sugerida: Carros,carros;Carro;CARROS;CARRO;,Lançar em INPUT_DESPESA → categoria 'Carros' (DRE: Carros).
+Cartão de Crédito,Categoria sugerida: Cartão de Crédito,cartão de crédito;cartão;de;crédito;,Lançar em INPUT_DESPESA → categoria 'Cartão de Crédito' (DRE: Cartão de Crédito).
+Chargeback,Categoria sugerida: Chargeback,chargeback;cbk;cb;,Lançar em INPUT_DESPESA → categoria 'Chargeback' (DRE: Chargeback).
+Cliksing,Categoria sugerida: Cliksing,cliksing;,Lançar em INPUT_DESPESA → categoria 'Cliksing' (DRE: Cliksing).
+Combustível,Categoria sugerida: Combustível,combustível;,Lançar em INPUT_DESPESA → categoria 'Combustível' (DRE: Combustível).
+Comercial,Categoria sugerida: Comercial,comercial;,Lançar em INPUT_DESPESA → categoria 'Comercial' (DRE: Comercial).
+Comissão,Categoria sugerida: Comissão,comissão;,Lançar em INPUT_DESPESA → categoria 'Comissão' (DRE: Comissão).
+Comissão (Comercial),Categoria sugerida: Comissão (Comercial),comissão (comercial);comissão;comercial;,Lançar em INPUT_DESPESA → categoria 'Comissão (Comercial)' (DRE: Comercial).
+Comissão (Jurídico),Categoria sugerida: Comissão (Jurídico),comissão (jurídico);comissão;jurídico;,Lançar em INPUT_DESPESA → categoria 'Comissão (Jurídico)' (DRE: Jurídico).
+Comissão (Líder),Categoria sugerida: Comissão (Líder),comissão (líder);comissão;líder;,Lançar em INPUT_DESPESA → categoria 'Comissão (Líder)' (DRE: Líder).
+Comissões,Categoria sugerida: Comissões,comissões;,Lançar em INPUT_DESPESA → categoria 'Comissões' (DRE: Comissões).
+Compra de eletros,Categoria sugerida: Compra de eletros,compra de eletros;compra;de;eletros;Eletronicos;Eletrônicos;,Lançar em INPUT_DESPESA → categoria 'Compra de eletros' (DRE: Compra de eletros).
+Compra de equipamentos para operação,Categoria sugerida: Compra de equipamentos para operação,compra de equipamentos para operação;compra;de;equipamentos;para;operação;,Lançar em INPUT_DESPESA → categoria 'Compra de equipamentos para operação' (DRE: Compra de equipamentos para operação).
+Compra de móveis,Categoria sugerida: Compra de móveis,compra de móveis;compra;de;móveis;,Lançar em INPUT_DESPESA → categoria 'Compra de móveis' (DRE: Compra de móveis).
+Conciliação de Audiência,Categoria sugerida: Conciliação de Audiência,conciliação de audiência;conciliação;de;audiência;,Lançar em INPUT_DESPESA → categoria 'Conciliação de Audiência' (DRE: Conciliação de Audiência).
+Confraternização,Categoria sugerida: Confraternização,confraternização;festa;fim de ano;festa de fim de ano;,Lançar em INPUT_DESPESA → categoria 'Confraternização' (DRE: Confraternização).
+Consórcio,Categoria sugerida: Consórcio,consórcio;,Lançar em INPUT_DESPESA → categoria 'Consórcio' (DRE: Consórcio).
+Consultorias,Categoria sugerida: Consultorias,consultorias;consultoria;,Lançar em INPUT_DESPESA → categoria 'Consultorias' (DRE: Consultorias).
+Contabilidade,Categoria sugerida: Contabilidade,contabilidade;,Lançar em INPUT_DESPESA → categoria 'Contabilidade' (DRE: Contabilidade).
+Convênio,Categoria sugerida: Convênio,convênio;convenio;,Lançar em INPUT_DESPESA → categoria 'Convênio' (DRE: Convênio).
+Convênio Farmais,Categoria sugerida: Convênio Farmais,convênio farmais;convênio;farmais;,Lançar em INPUT_DESPESA → categoria 'Convênio Farmais' (DRE: Convênio Farmais).
+Convênio Médico,Categoria sugerida: Convênio Médico,convênio médico;convênio;médico;,Lançar em INPUT_DESPESA → categoria 'Convênio Médico' (DRE: Convênio Médico).
+Convênio Médico (Comercial),Categoria sugerida: Convênio Médico (Comercial),convênio médico (comercial);convênio;médico;comercial;,Lançar em INPUT_DESPESA → categoria 'Convênio Médico (Comercial)' (DRE: Comercial).
+Convênio Médico (Jurídico),Categoria sugerida: Convênio Médico (Jurídico),convênio médico (jurídico);convênio;médico;jurídico;,Lançar em INPUT_DESPESA → categoria 'Convênio Médico (Jurídico)' (DRE: Jurídico).
+Copa,Categoria sugerida: Copa,copa;cozinha;,Lançar em INPUT_DESPESA → categoria 'Copa' (DRE: Copa).
+Correio,Categoria sugerida: Correio,correio;correios;,Lançar em INPUT_DESPESA → categoria 'Correio' (DRE: Correio).
+DARF,Categoria sugerida: DARF,darf;imposto;,Lançar em INPUT_DESPESA → categoria 'DARF' (DRE: DARF).
+Decoração,Categoria sugerida: Decoração,decoração;decorações;,Lançar em INPUT_DESPESA → categoria 'Decoração' (DRE: Decoração).
+Devolução da empresa para o sócio,Categoria sugerida: Devolução da empresa para o sócio,devolução da empresa para o sócio;devolução;da;empresa;para;o;sócio;,Lançar em INPUT_DESPESA → categoria 'Devolução da empresa para o sócio' (DRE: Devolução da empresa para o sócio).
+Devolução sócio,Categoria sugerida: Devolução sócio,devolução sócio;devolução;sócio;,Lançar em INPUT_DESPESA → categoria 'Devolução sócio' (DRE: Devolução sócio).
+Digisac,Categoria sugerida: Digisac,digisac;,Lançar em INPUT_DESPESA → categoria 'Digisac' (DRE: Digisac).
+Discador,Categoria sugerida: Discador,discador;,Lançar em INPUT_DESPESA → categoria 'Discador' (DRE: Discador).
+Discador Oncall,Categoria sugerida: Discador Oncall,discador oncall;discador;oncall;,Lançar em INPUT_DESPESA → categoria 'Discador Oncall' (DRE: Discador Oncall).
+Elite,Categoria sugerida: Elite,elite;,Lançar em INPUT_DESPESA → categoria 'Elite' (DRE: Elite).
+Elite imóvel,Categoria sugerida: Elite imóvel,elite imóvel;elite;imóvel;,Lançar em INPUT_DESPESA → categoria 'Elite imóvel' (DRE: Elite imóvel).
+Embalagens M.M,Categoria sugerida: Embalagens M.M,embalagens m.m;embalagens;m.m;,Lançar em INPUT_DESPESA → categoria 'Embalagens M.M' (DRE: Embalagens M.M).
+Empréstimo,Categoria sugerida: Empréstimo,empréstimo;empréstimos;,Lançar em INPUT_DESPESA → categoria 'Empréstimo' (DRE: Empréstimo).
+Empréstimo B. Brasil,Categoria sugerida: Empréstimo B. Brasil,empréstimo b. brasil;empréstimo;b;brasil;,Lançar em INPUT_DESPESA → categoria 'Empréstimo B. Brasil' (DRE: Empréstimo B. Brasil).
+Empréstimo Colaborador,Categoria sugerida: Empréstimo Colaborador,empréstimo colaborador;empréstimo;colaborador;,Lançar em INPUT_DESPESA → categoria 'Empréstimo Colaborador' (DRE: Empréstimo Colaborador).
+Endomarketing,Categoria sugerida: Endomarketing,endomarketing;,Lançar em INPUT_DESPESA → categoria 'Endomarketing' (DRE: Endomarketing).
+Enel (energia),Categoria sugerida: Enel (energia),enel (energia);enel;energia;luz;despesa com energia;,Lançar em INPUT_DESPESA → categoria 'Enel (energia)' (DRE: energia).
+Entre empresas,Categoria sugerida: Entre empresas,entre empresas;entre;empresas;transferencia para empresa;,Lançar em INPUT_DESPESA → categoria 'Entre empresas' (DRE: Entre empresas).
+Escritorio,Categoria sugerida: Escritorio,escritorio;Escritório;,Lançar em INPUT_DESPESA → categoria 'Escritorio' (DRE: Escritorio).
+Exame médico,Categoria sugerida: Exame médico,exame médico;exame;médico;,Lançar em INPUT_DESPESA → categoria 'Exame médico' (DRE: Exame médico).
+Farmacia,Categoria sugerida: Farmacia,farmacia;,Lançar em INPUT_DESPESA → categoria 'Farmacia' (DRE: Farmacia).
+Férias,Categoria sugerida: Férias,férias;,Lançar em INPUT_DESPESA → categoria 'Férias' (DRE: Férias).
+FGTS,Categoria sugerida: FGTS,fgts;,Lançar em INPUT_DESPESA → categoria 'FGTS' (DRE: FGTS).
+Filtros Soft,Categoria sugerida: Filtros Soft,filtros soft;filtros;soft;,Lançar em INPUT_DESPESA → categoria 'Filtros Soft' (DRE: Filtros Soft).
+Fornecedor,Categoria sugerida: Fornecedor,fornecedor;,Lançar em INPUT_DESPESA → categoria 'Fornecedor' (DRE: Fornecedor).
+Funcionários Testes,Categoria sugerida: Funcionários Testes,funcionários testes;funcionários;testes;Funcionario teste;,Lançar em INPUT_DESPESA → categoria 'Funcionários Testes' (DRE: Funcionários Testes).
+Gestão mensalidade,Categoria sugerida: Gestão mensalidade,gestão mensalidade;gestão;mensalidade;,Lançar em INPUT_DESPESA → categoria 'Gestão mensalidade' (DRE: Gestão mensalidade).
+GPS,Categoria sugerida: GPS,gps;,Lançar em INPUT_DESPESA → categoria 'GPS' (DRE: GPS).
+Guia de Custas,Categoria sugerida: Guia de Custas,guia de custas;guia;de;custas;,Lançar em INPUT_DESPESA → categoria 'Guia de Custas' (DRE: Guia de Custas).
+Help Desk,Categoria sugerida: Help Desk,help desk;help;desk;,Lançar em INPUT_DESPESA → categoria 'Help Desk' (DRE: Help Desk).
+Indicação,Categoria sugerida: Indicação,indicação;,Lançar em INPUT_DESPESA → categoria 'Indicação' (DRE: Indicação).
+Informática,Categoria sugerida: Informática,informática;,Lançar em INPUT_DESPESA → categoria 'Informática' (DRE: Informática).
+INSS,Categoria sugerida: INSS,inss;,Lançar em INPUT_DESPESA → categoria 'INSS' (DRE: INSS).
+Internet (Vivo e Claro),Categoria sugerida: Internet (Vivo e Claro),internet (vivo e claro);internet;vivo;e;claro;,Lançar em INPUT_DESPESA → categoria 'Internet (Vivo e Claro)' (DRE: Vivo e Claro).
+IPTU,Categoria sugerida: IPTU,iptu;,Lançar em INPUT_DESPESA → categoria 'IPTU' (DRE: IPTU).
+King jobs,Categoria sugerida: King jobs,king jobs;king;jobs;,Lançar em INPUT_DESPESA → categoria 'King jobs' (DRE: King jobs).
+Laudos,Categoria sugerida: Laudos,laudos;,Lançar em INPUT_DESPESA → categoria 'Laudos' (DRE: Laudos).
+Laudos terceiros,Categoria sugerida: Laudos terceiros,laudos terceiros;laudos;terceiros;,Lançar em INPUT_DESPESA → categoria 'Laudos terceiros' (DRE: Laudos terceiros).
+Leads,Categoria sugerida: Leads,leads;,Lançar em INPUT_DESPESA → categoria 'Leads' (DRE: Leads).
+Leads Recrutamento,Categoria sugerida: Leads Recrutamento,leads recrutamento;leads;recrutamento;,Lançar em INPUT_DESPESA → categoria 'Leads Recrutamento' (DRE: Leads Recrutamento).
+Limpa nome,Categoria sugerida: Limpa nome,limpa nome;limpa;nome;,Lançar em INPUT_DESPESA → categoria 'Limpa nome' (DRE: Limpa nome).
+M.M Embalagens,Categoria sugerida: M.M Embalagens,m.m embalagens;m;embalagens;,Lançar em INPUT_DESPESA → categoria 'M.M Embalagens' (DRE: M.M Embalagens).
+Manutenção ar condicionado,Categoria sugerida: Manutenção ar condicionado,manutenção ar condicionado;manutenção;ar;condicionado;,Lançar em INPUT_DESPESA → categoria 'Manutenção ar condicionado' (DRE: Manutenção ar condicionado).
+Manutenção Predial,Categoria sugerida: Manutenção Predial,manutenção predial;manutenção;predial;,Lançar em INPUT_DESPESA → categoria 'Manutenção Predial' (DRE: Manutenção Predial).
+Mão de Obra reforma,Categoria sugerida: Mão de Obra reforma,mão de obra reforma;mão;de;obra;reforma;,Lançar em INPUT_DESPESA → categoria 'Mão de Obra reforma' (DRE: Mão de Obra reforma).
+Marketing,Categoria sugerida: Marketing,marketing;,Lançar em INPUT_DESPESA → categoria 'Marketing' (DRE: Marketing).
+Marketing interno,Categoria sugerida: Marketing interno,marketing interno;marketing;interno;,Lançar em INPUT_DESPESA → categoria 'Marketing interno' (DRE: Marketing interno).
+Materiais,Categoria sugerida: Materiais,materiais;,Lançar em INPUT_DESPESA → categoria 'Materiais' (DRE: Materiais).
+Materiais escritório,Categoria sugerida: Materiais escritório,materiais escritório;materiais;escritório;Folha sulfite;sulfite;grampeador;durex;canetas;caneta;lapis;;,Lançar em INPUT_DESPESA → categoria 'Materiais escritório' (DRE: Materiais escritório).
+Material de Limpeza,Categoria sugerida: Material de Limpeza,material de limpeza;material;de;limpeza;,Lançar em INPUT_DESPESA → categoria 'Material de Limpeza' (DRE: Material de Limpeza).
+Material Informática,Categoria sugerida: Material Informática,material informática;material;informática;mouse;teclado;,Lançar em INPUT_DESPESA → categoria 'Material Informática' (DRE: Material Informática).
+Material Manutenção,Categoria sugerida: Material Manutenção,material manutenção;material;manutenção;obra;,Lançar em INPUT_DESPESA → categoria 'Material Manutenção' (DRE: Material Manutenção).
+Mediari,Categoria sugerida: Mediari,mediari;,Lançar em INPUT_DESPESA → categoria 'Mediari' (DRE: Mediari).
+Mercado,Categoria sugerida: Mercado,mercado;mercados;,Lançar em INPUT_DESPESA → categoria 'Mercado' (DRE: Mercado).
+Ótica,Categoria sugerida: Ótica,ótica;oculos;otica;,Lançar em INPUT_DESPESA → categoria 'Ótica' (DRE: Ótica).
+Outro fornecedor,Categoria sugerida: Outro fornecedor,outro fornecedor;outro;fornecedor;,Lançar em INPUT_DESPESA → categoria 'Outro fornecedor' (DRE: Outro fornecedor).
+Outros,Categoria sugerida: Outros,outros;,Lançar em INPUT_DESPESA → categoria 'Outros' (DRE: Outros).
+Outros Benefícios,Categoria sugerida: Outros Benefícios,outros benefícios;outros;benefícios;,Lançar em INPUT_DESPESA → categoria 'Outros Benefícios' (DRE: Outros Benefícios).
+Outros prejuízos,Categoria sugerida: Outros prejuízos,outros prejuízos;outros;prejuízos;,Lançar em INPUT_DESPESA → categoria 'Outros prejuízos' (DRE: Outros prejuízos).
+Outros social mídia,Categoria sugerida: Outros social mídia,outros social mídia;outros;social;mídia;,Lançar em INPUT_DESPESA → categoria 'Outros social mídia' (DRE: Outros social mídia).
+Outros tipos de materiais,Categoria sugerida: Outros tipos de materiais,outros tipos de materiais;outros;tipos;de;materiais;,Lançar em INPUT_DESPESA → categoria 'Outros tipos de materiais' (DRE: Outros tipos de materiais).
+Palestra,Categoria sugerida: Palestra,palestra;palestras;,Lançar em INPUT_DESPESA → categoria 'Palestra' (DRE: Palestra).
+Patrimonial,Categoria sugerida: Patrimonial,patrimonial;computador;computador;notbook;not;,Lançar em INPUT_DESPESA → categoria 'Patrimonial' (DRE: Patrimonial).
+Prejuizo,Categoria sugerida: Prejuizo,prejuizo;,Lançar em INPUT_DESPESA → categoria 'Prejuizo' (DRE: Prejuizo).
+Premiação,Categoria sugerida: Premiação,premiação;premiações;,Lançar em INPUT_DESPESA → categoria 'Premiação' (DRE: Premiação).
+Premiação (Comercial),Categoria sugerida: Premiação (Comercial),premiação (comercial);premiação;comercial;,Lançar em INPUT_DESPESA → categoria 'Premiação (Comercial)' (DRE: Comercial).
+Premiação (Empresa),Categoria sugerida: Premiação (Empresa),premiação (empresa);premiação;empresa;,Lançar em INPUT_DESPESA → categoria 'Premiação (Empresa)' (DRE: Empresa).
+Premiação (Jurídico),Categoria sugerida: Premiação (Jurídico),premiação (jurídico);premiação;jurídico;,Lançar em INPUT_DESPESA → categoria 'Premiação (Jurídico)' (DRE: Jurídico).
+Premiação diária,Categoria sugerida: Premiação diária,premiação diária;premiação;diária;,Lançar em INPUT_DESPESA → categoria 'Premiação diária' (DRE: Premiação diária).
+premiação mensal,Categoria sugerida: premiação mensal,premiação mensal;premiação;mensal;,Lançar em INPUT_DESPESA → categoria 'premiação mensal' (DRE: premiação mensal).
+Premiação quinzenal,Categoria sugerida: Premiação quinzenal,premiação quinzenal;premiação;quinzenal;,Lançar em INPUT_DESPESA → categoria 'Premiação quinzenal' (DRE: Premiação quinzenal).
+Premiação semanal,Categoria sugerida: Premiação semanal,premiação semanal;premiação;semanal;,Lançar em INPUT_DESPESA → categoria 'Premiação semanal' (DRE: Premiação semanal).
+Processo Trabalhista,Categoria sugerida: Processo Trabalhista,processo trabalhista;processo;trabalhista;,Lançar em INPUT_DESPESA → categoria 'Processo Trabalhista' (DRE: Processo Trabalhista).
+Processual,Categoria sugerida: Processual,processual;processo;,Lançar em INPUT_DESPESA → categoria 'Processual' (DRE: Processual).
+produto de limpeza,Categoria sugerida: produto de limpeza,produto de limpeza;produto;de;limpeza;,Lançar em INPUT_DESPESA → categoria 'produto de limpeza' (DRE: produto de limpeza).
+Programas Administrativos,Categoria sugerida: Programas Administrativos,programas administrativos;programas;administrativos;,Lançar em INPUT_DESPESA → categoria 'Programas Administrativos' (DRE: Programas Administrativos).
+Pró-Labore (Nome da pessoa),Categoria sugerida: Pró-Labore (Nome da pessoa),pro labore nome pessoa;prolabore;pl nome;Pró-labore;prola;pro;,Lançar em INPUT_DESPESA → categoria 'Pró-Labore (Nome da pessoa)' (DRE: Pró-Labore)
+Pró-Labore (Nome da pessoa),Categoria sugerida: Pró-Labore (Nome da pessoa),pro labore nome pessoa;prolabore;pl nome;,Lançar em INPUT_DESPESA → categoria 'Pró-Labore (Nome da pessoa)' (DRE: Pró-Labore)
+Pró-Labore (Nome da pessoa),Categoria sugerida: Pró-Labore (Nome da pessoa),pro labore nome pessoa;prolabore;pl nome;,Lançar em INPUT_DESPESA → categoria 'Pró-Labore (Nome da pessoa)' (DRE: Pró-Labore)
+Pronamp,Categoria sugerida: Pronamp,pronamp;,Lançar em INPUT_DESPESA → categoria 'Pronamp' (DRE: Pronamp).
+Propaganda,Categoria sugerida: Propaganda,propaganda;,Lançar em INPUT_DESPESA → categoria 'Propaganda' (DRE: Propaganda).
+Recarga,Categoria sugerida: Recarga,recarga;,Lançar em INPUT_DESPESA → categoria 'Recarga' (DRE: Recarga).
+Reclame Aqui,Categoria sugerida: Reclame Aqui,reclame aqui;reclame;aqui;,Lançar em INPUT_DESPESA → categoria 'Reclame Aqui' (DRE: Reclame Aqui).
+Reforma,Categoria sugerida: Reforma,reforma;,Lançar em INPUT_DESPESA → categoria 'Reforma' (DRE: Reforma).
+Relógio de ponto,Categoria sugerida: Relógio de ponto,relógio de ponto;relógio;de;ponto;,Lançar em INPUT_DESPESA → categoria 'Relógio de ponto' (DRE: Relógio de ponto).
+Rescisão,Categoria sugerida: Rescisão,rescisão;,Lançar em INPUT_DESPESA → categoria 'Rescisão' (DRE: Rescisão).
+Rescisão (Comercial),Categoria sugerida: Rescisão (Comercial),rescisão (comercial);rescisão;comercial;,Lançar em INPUT_DESPESA → categoria 'Rescisão (Comercial)' (DRE: Comercial).
+Rescisão (Jurídico),Categoria sugerida: Rescisão (Jurídico),rescisão (jurídico);rescisão;jurídico;,Lançar em INPUT_DESPESA → categoria 'Rescisão (Jurídico)' (DRE: Jurídico).
+SABESP,Categoria sugerida: SABESP,sabesp;,Lançar em INPUT_DESPESA → categoria 'SABESP' (DRE: SABESP).
+Salários,Categoria sugerida: Salários,salários;,Lançar em INPUT_DESPESA → categoria 'Salários' (DRE: Salários).
+13º Salário,Categoria sugerida: 13º Salário,decimo;terceiro;13;13º Salario;13º Salário;,Lançar em INPUT_DESPESA → categoria '13º Salários' (DRE: 13º Salários).
+segurança,Categoria sugerida: segurança,segurança;,Lançar em INPUT_DESPESA → categoria 'segurança' (DRE: segurança).
+Seguro Protegido B. Brasil,Categoria sugerida: Seguro Protegido B. Brasil,seguro protegido b. brasil;seguro;protegido;b;brasil;,Lançar em INPUT_DESPESA → categoria 'Seguro Protegido B. Brasil' (DRE: Seguro Protegido B. Brasil).
+Simples Nacional,Categoria sugerida: Simples Nacional,simples nacional;simples;nacional;,Lançar em INPUT_DESPESA → categoria 'Simples Nacional' (DRE: Simples Nacional).
+Solft,Categoria sugerida: Solft,solft;,Lançar em INPUT_DESPESA → categoria 'Solft' (DRE: Solft).
+Tarifas,Categoria sugerida: Tarifas,tarifas;,Lançar em INPUT_DESPESA → categoria 'Tarifas' (DRE: Tarifas).
+Tarifas Bancárias,Categoria sugerida: Tarifas Bancárias,tarifas bancárias;tarifas;bancárias;,Lançar em INPUT_DESPESA → categoria 'Tarifas Bancárias' (DRE: Tarifas Bancárias).
+Taxas,Categoria sugerida: Taxas,taxas;,Lançar em INPUT_DESPESA → categoria 'Taxas' (DRE: Taxas).
+Tecno juris,Categoria sugerida: Tecno juris,tecno juris;tecno;juris;,Lançar em INPUT_DESPESA → categoria 'Tecno juris' (DRE: Tecno juris).
+telefonia e internet,Categoria sugerida: telefonia e internet,telefonia e internet;telefonia;e;internet;telefone;,Lançar em INPUT_DESPESA → categoria 'telefonia e internet' (DRE: telefonia e internet).
+TFE,Categoria sugerida: TFE,tfe;,Lançar em INPUT_DESPESA → categoria 'TFE' (DRE: TFE).
+TI,Categoria sugerida: TI,ti;,Lançar em INPUT_DESPESA → categoria 'TI' (DRE: TI).
+Transferência entre empresas,Categoria sugerida: Transferência entre empresas,transferência entre empresas;transferência;entre;empresas;,Lançar em INPUT_DESPESA → categoria 'Transferência entre empresas' (DRE: Transferência entre empresas).
+Transporte App (Uber/99/taxi),Categoria sugerida: Transporte App (Uber/99/taxi),transporte app (uber/99/taxi);transporte;app;uber;99;taxi;,Lançar em INPUT_DESPESA → categoria 'Transporte App (Uber/99/taxi)' (DRE: Uber/99/taxi).
+Treinamento,Categoria sugerida: Treinamento,treinamento;,Lançar em INPUT_DESPESA → categoria 'Treinamento' (DRE: Treinamento).
+UOP,Categoria sugerida: UOP,uop;,Lançar em INPUT_DESPESA → categoria 'UOP' (DRE: UOP).
+Vale Alimentação,Categoria sugerida: Vale Alimentação,vale alimentação;vale;alimentação;,Lançar em INPUT_DESPESA → categoria 'Vale Alimentação' (DRE: Vale Alimentação).
+Vale Alimentação (Comercial),Categoria sugerida: Vale Alimentação (Comercial),vale alimentação (comercial);vale;alimentação;comercial;,Lançar em INPUT_DESPESA → categoria 'Vale Alimentação (Comercial)' (DRE: Comercial).
+Vale Alimentação (Jurídico),Categoria sugerida: Vale Alimentação (Jurídico),vale alimentação (jurídico);vale;alimentação;jurídico;,Lançar em INPUT_DESPESA → categoria 'Vale Alimentação (Jurídico)' (DRE: Jurídico).
+Vale Refeição,Categoria sugerida: Vale Refeição,vale refeição;vale;refeição;,Lançar em INPUT_DESPESA → categoria 'Vale Refeição' (DRE: Vale Refeição).
+Vale Refeição (Comercial),Categoria sugerida: Vale Refeição (Comercial),vale refeição (comercial);vale;refeição;comercial;,Lançar em INPUT_DESPESA → categoria 'Vale Refeição (Comercial)' (DRE: Comercial).
+Vale Refeição (Jurídico),Categoria sugerida: Vale Refeição (Jurídico),vale refeição (jurídico);vale;refeição;jurídico;,Lançar em INPUT_DESPESA → categoria 'Vale Refeição (Jurídico)' (DRE: Jurídico).
+Vale Transporte,Categoria sugerida: Vale Transporte,vale transporte;vale;transporte;,Lançar em INPUT_DESPESA → categoria 'Vale Transporte' (DRE: Vale Transporte).
+Vale Transporte (Comercial),Categoria sugerida: Vale Transporte (Comercial),vale transporte (comercial);vale;transporte;comercial;,Lançar em INPUT_DESPESA → categoria 'Vale Transporte (Comercial)' (DRE: Comercial).
+Vale Transporte (Jurídico),Categoria sugerida: Vale Transporte (Jurídico),vale transporte (jurídico);vale;transporte;jurídico;,Lançar em INPUT_DESPESA → categoria 'Vale Transporte (Jurídico)' (DRE: Jurídico).
+verisure,Categoria sugerida: verisure,verisure;segurança;,Lançar em INPUT_DESPESA → categoria 'verisure' (DRE: verisure).
